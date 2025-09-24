@@ -1,4 +1,5 @@
-Hi, I'm Min Ko Naing! 👋
+Hi, I'm Min Ko Naing! <br/>
+👋 About me<br/>
 I'm a Full Stack Developer with a passion for building robust web applications and cloud-based solutions.<br/>
 My experience ranges from developing automation tools that drastically reduce manual workloads to architecting scalable cloud deployments.<br/>
 I'm always looking for new challenges and opportunities to apply my skills in software development.<br/>
