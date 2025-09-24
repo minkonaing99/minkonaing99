@@ -12,10 +12,11 @@ Databases & Cloud: AWS (EC2, S3, DynamoDB, Aurora), MySQL, PostgreSQL<br/>
 🌱 What I'm Learning Next<br/>
 I'm currently expanding my knowledge in AWS cloud architecture to become a certified AWS Solutions Architect. I'm also exploring advanced JavaScript frameworks to build more dynamic and modern user interfaces.<br/>
 
-🤝 Let's Connect!<br/>
-LinkedIn: https://www.linkedin.com/in/min-ko-naing/<br/>
-Website: https://www.merxy.club/<br/>
-Gmail: mkn.minko.naing99@gmail.com<br/>
+🤝 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/min-ko-naing/) | 
+[Portfolio](https://www.merxy.club/) | 
+[Mail](mailto:mkn.minko.naing99@gmail.com)
+
 
 
 Looking forward to collaborating on new projects!<br/>
