@@ -14,7 +14,7 @@ I'm currently expanding my knowledge in AWS cloud architecture to become a certi
 
 🤝 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/min-ko-naing/) | 
-[Portfolio](https://www.merxy.club/) | 
+[Portfolio](https://merxy.club/) | 
 [Mail](mailto:mkn.minko.naing99@gmail.com)
 
 
