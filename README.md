@@ -1,22 +1,27 @@
-Hi, I'm Min Ko Naing! <br/>
-👋 About me<br/>
-I'm a Full Stack Developer with a passion for building robust web applications and cloud-based solutions.<br/>
-My experience ranges from developing automation tools that drastically reduce manual workloads to architecting scalable cloud deployments.<br/>
-I'm always looking for new challenges and opportunities to apply my skills in software development.<br/>
+## Min Ko Naing
 
-💼 My Toolkit
-Languages: Python, JavaScript (ES6), PHP, SQL, HTML5, CSS3<br/>
-Frameworks & Tools: Laravel, Bootstrap, jQuery, Git<br/>
-Databases & Cloud: AWS (EC2, S3, DynamoDB, Aurora), MySQL, PostgreSQL<br/>
+Full Stack Developer building web applications, business systems, and automation tools that help teams work faster and more efficiently.
 
-🌱 What I'm Learning Next<br/>
-I'm currently expanding my knowledge in AWS cloud architecture to become a certified AWS Solutions Architect. I'm also exploring advanced JavaScript frameworks to build more dynamic and modern user interfaces.<br/>
+I specialize in creating practical solutions such as admin dashboards, internal tools, portfolio websites, and full-stack platforms that improve workflows and reduce manual work. My experience covers frontend development, backend systems, databases, and cloud deployment, with a focus on building reliable products that solve real business problems.
 
-🤝 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/min-ko-naing/) | 
-[Portfolio](https://merxy.club/) | 
-[Mail](mailto:mkn.minko.naing99@gmail.com)
+### What I Can Help Build
+- Business websites and responsive web applications
+- Admin dashboards and internal management systems
+- Automation tools that reduce repetitive manual tasks
+- Database-driven platforms with clean user workflows
+- Cloud-hosted applications and backend integrations
 
+### Core Skills
+- Languages: Python, JavaScript, PHP, SQL, HTML, CSS
+- Frameworks & Tools: Laravel, Bootstrap, jQuery, Git
+- Databases & Cloud: MySQL, PostgreSQL, AWS EC2, S3, DynamoDB, Aurora
 
+### Current Focus
+- Building scalable web applications with strong business value
+- Expanding AWS cloud architecture knowledge
+- Improving modern frontend and full-stack development practices
 
-Looking forward to collaborating on new projects!<br/>
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/min-ko-naing/)
+- [Portfolio](https://merxy.club/)
+- [Email](mailto:mkn.minko.naing99@gmail.com)
