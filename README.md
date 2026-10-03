@@ -5,7 +5,9 @@
 
 I build backend services and web applications that simplify business operations, from sales reporting and payment workflows to online learning platforms.
 
-My work spans API development, database migrations, cloud deployment, and maintaining production applications. Based in Bangkok, Thailand, I'm pursuing an MSc in Cybersecurity and Information Assurance at Mahidol University.
+My work spans API development, database migrations, cloud deployment, and maintaining production applications. 
+Based in Bangkok, Thailand.
+I'm pursuing an MSc in Cybersecurity and Information Assurance at Mahidol University.
 
 [Portfolio](https://merxylab.com) | [LinkedIn](https://www.linkedin.com/in/min-ko-naing/) | [Email](mailto:mkn.minko.naing99@gmail.com)
 
